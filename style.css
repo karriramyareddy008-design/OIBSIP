@@ -80,11 +80,6 @@ nav ul li a {
     margin-bottom: 10px;
 }
 
-.contact a {
-    color: #4da6ff;
-    text-decoration: none;
-}
-
 /* Footer */
 footer {
     text-align: center;
@@ -100,4 +95,14 @@ button {
     color: black;
     border: none;
     cursor: pointer;
+}
+
+/* Hover Effect */
+button:hover {
+    background-color: #ccc;
+}
+
+/* Section Spacing */
+section {
+    margin-bottom: 50px;
 }
